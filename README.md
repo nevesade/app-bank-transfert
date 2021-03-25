@@ -10,4 +10,4 @@ Essa Aplicação de transferências bancárias  tem como objectivo facultar as s
   - Transferências
 
 
-▪ Tecnologia: .NET
+
