@@ -98,7 +98,7 @@ namespace AppBankTransfert
             {
 
                 Conta conta = listaContas[i];
-                Console.Write("#0 - ", i);
+                Console.Write("#{0} - ", i);
                 Console.WriteLine(conta);
             }
 
