@@ -1,0 +1,16 @@
+D:\Bootcamp LocalizaLabs .NET\ProjectosBcDotnetLocalizalabs\AppBankTransfert\bin\Debug\net5.0\AppBankTransfert.exe
+D:\Bootcamp LocalizaLabs .NET\ProjectosBcDotnetLocalizalabs\AppBankTransfert\bin\Debug\net5.0\AppBankTransfert.deps.json
+D:\Bootcamp LocalizaLabs .NET\ProjectosBcDotnetLocalizalabs\AppBankTransfert\bin\Debug\net5.0\AppBankTransfert.runtimeconfig.json
+D:\Bootcamp LocalizaLabs .NET\ProjectosBcDotnetLocalizalabs\AppBankTransfert\bin\Debug\net5.0\AppBankTransfert.runtimeconfig.dev.json
+D:\Bootcamp LocalizaLabs .NET\ProjectosBcDotnetLocalizalabs\AppBankTransfert\bin\Debug\net5.0\AppBankTransfert.dll
+D:\Bootcamp LocalizaLabs .NET\ProjectosBcDotnetLocalizalabs\AppBankTransfert\bin\Debug\net5.0\ref\AppBankTransfert.dll
+D:\Bootcamp LocalizaLabs .NET\ProjectosBcDotnetLocalizalabs\AppBankTransfert\bin\Debug\net5.0\AppBankTransfert.pdb
+D:\Bootcamp LocalizaLabs .NET\ProjectosBcDotnetLocalizalabs\AppBankTransfert\obj\Debug\net5.0\AppBankTransfert.csprojAssemblyReference.cache
+D:\Bootcamp LocalizaLabs .NET\ProjectosBcDotnetLocalizalabs\AppBankTransfert\obj\Debug\net5.0\AppBankTransfert.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp LocalizaLabs .NET\ProjectosBcDotnetLocalizalabs\AppBankTransfert\obj\Debug\net5.0\AppBankTransfert.AssemblyInfoInputs.cache
+D:\Bootcamp LocalizaLabs .NET\ProjectosBcDotnetLocalizalabs\AppBankTransfert\obj\Debug\net5.0\AppBankTransfert.AssemblyInfo.cs
+D:\Bootcamp LocalizaLabs .NET\ProjectosBcDotnetLocalizalabs\AppBankTransfert\obj\Debug\net5.0\AppBankTransfert.csproj.CoreCompileInputs.cache
+D:\Bootcamp LocalizaLabs .NET\ProjectosBcDotnetLocalizalabs\AppBankTransfert\obj\Debug\net5.0\AppBankTransfert.dll
+D:\Bootcamp LocalizaLabs .NET\ProjectosBcDotnetLocalizalabs\AppBankTransfert\obj\Debug\net5.0\ref\AppBankTransfert.dll
+D:\Bootcamp LocalizaLabs .NET\ProjectosBcDotnetLocalizalabs\AppBankTransfert\obj\Debug\net5.0\AppBankTransfert.pdb
+D:\Bootcamp LocalizaLabs .NET\ProjectosBcDotnetLocalizalabs\AppBankTransfert\obj\Debug\net5.0\AppBankTransfert.genruntimeconfig.cache
