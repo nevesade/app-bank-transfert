@@ -5,7 +5,7 @@ Projeto intitulado Aplicação de transferências bancárisa com .NET  foi desen
 
 Essa Aplicação de transferências bancárias  tem como objectivo facultar as seguintes operações bancáris:
   - Consultar Saldo
-  - Levantamento
+  - Levantamento(Sacar pt-br)
   - Depósito
   - Transferências
 
