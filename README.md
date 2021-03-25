@@ -9,5 +9,4 @@ Essa Aplicação de transferências bancárias  tem como objectivo facultar as s
   - Depósito
   - Transferências
 
-
-
+-- Tecnologia : C#
